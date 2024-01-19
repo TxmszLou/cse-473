@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+
+
+# LaTeX
+*.log
+*.tex
+*.fls
+*.aux
+*.fdb_latexmk
+
+# data
+*.zip
